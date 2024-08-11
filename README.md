@@ -4,8 +4,6 @@ As part of learning to code,I completed a project that involved creating a basic
 ![1](https://github.com/user-attachments/assets/278d9c40-efb6-49e3-9247-b2f5121b0f78)
 **Phone view**
 ![2](https://github.com/user-attachments/assets/88c50c1c-f040-4d0e-a624-d3d7815591a3)
-**mute/unmute,play/pause etc functionality**
 https://github.com/user-attachments/assets/edac358e-44e0-4491-897f-8dd7c05b8b3c
-**previous/next and seekbar**
 https://github.com/user-attachments/assets/6182ed38-9859-4deb-8837-d8d49e7215b2
 
